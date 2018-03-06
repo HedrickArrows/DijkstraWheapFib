@@ -15,49 +15,49 @@ W linii należy wypisać dwie liczby - najkrótszą odległość i drugą najkr�
 Przykład
 
 Wejście
-7 8
-0 1 1
-1 2 1
-4 0 1
-2 4 2
-2 3 2
-5 2 1
-3 6 1
-6 5 1
+7 8 \n
+0 1 1 \n
+1 2 1 \n
+4 0 1 \n
+2 4 2 \n
+2 3 2 \n
+5 2 1 \n
+3 6 1 \n
+6 5 1 \n
 
 Wyjście
-4 5
+4 5 \n
 
 
 Wejście
-4 4
-0 1 1
-0 2 1
-3 1 1
-3 2 1
+4 4 \n
+0 1 1 \n
+0 2 1 \n
+3 1 1 \n
+3 2 1 \n
 
 Wyjście
-2 2
+2 2 \n
 
 
 Wejście
 
-3 2
-0 1 1
-1 2 1
+3 2 \n
+0 1 1 \n
+1 2 1 \n
 
 
 Wyjście
-#
+\# \n
 
 Wejście
-5 5
-0 1 1
-1 2 1
-3 1 1
-2 3 1
-1 4 1
+5 5 \n
+0 1 1 \n
+1 2 1 \n
+3 1 1 \n
+2 3 1 \n
+1 4 1 \n
 
 Wyjście
-#
+\#  \n
 
